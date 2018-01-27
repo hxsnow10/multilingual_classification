@@ -1,0 +1,9 @@
+biology
+economics
+art
+business
+entertainment
+politics
+health
+education
+technology

@@ -1,0 +1,188 @@
+English	English	en
+Cebuano	Cebuano	ceb
+Swedish	svenska	sv
+German	Deutsch	de
+French	fran?ais	fr
+Dutch	Nederlands	nl
+Russian	русский	ru
+Italian	italiano	it
+Spanish	espa?ol	es
+Waray	Winaray	war
+Polish	polski	pl
+Vietnamese	Ti?ng Vi?t	vi
+Japanese	日本語	ja
+Portuguese	português	pt
+Chinese	中文	zh
+Ukrainian	укра?нська	uk
+Persian	?????	fa
+Catalan	català	ca
+Arabic	???????	ar
+Norwegian (Bokm?l)	norsk	no
+Serbo-Croatian	srpskohrvatski / српскохрватски	sh
+Finnish	suomi	fi
+Hungarian	magyar	hu
+Indonesian	Bahasa Indonesia	id
+Korean	???	ko
+Czech	?e?tina	cs
+Romanian	rom?n?	ro
+Serbian	српски / srpski	sr
+Malay	Bahasa Melayu	ms
+Turkish	Türk?e	tr
+Basque	euskara	eu
+Esperanto	Esperanto	eo
+Bulgarian	български	bg
+Danish	dansk	da
+Armenian	???????	hy
+Slovak	sloven?ina	sk
+Min Nan	B?n-l?m-gú	zh-min-nan
+Minangkabau	Baso Minangkabau	min
+Kazakh	?аза?ша	kk
+Hebrew	?????	he
+Lithuanian	lietuvi?	lt
+Croatian	hrvatski	hr
+Chechen	нохчийн	ce
+Estonian	eesti	et
+Slovenian	sloven??ina	sl
+Belarusian	беларуская	be
+Galician	galego	gl
+Greek	Ελληνικ?	el
+Norwegian (Nynorsk)	norsk nynorsk	nn
+Uzbek	o?zbekcha/?збекча	uz
+Simple English	Simple English	simple
+Latin	Latina	la
+Azerbaijani	az?rbaycanca	az
+Urdu	????	ur
+Hindi	??????	hi
+Volapük	Volapük	vo
+Thai	???	th
+Georgian	???????	ka
+Tamil	?????	ta
+Welsh	Cymraeg	cy
+Macedonian	македонски	mk
+Malagasy	Malagasy	mg
+Occitan	occitan	oc
+Tagalog	Tagalog	tl
+Latvian	latvie?u	lv
+Kirghiz	Кыргызча	ky
+Bosnian	bosanski	bs
+Tatar	татарча/tatar?a	tt
+Newar	????? ????	new
+Albanian	shqip	sq
+Tajik	то?ик?	tg
+Telugu	??????	te
+Piedmontese	Piemontèis	pms
+Breton	brezhoneg	br
+Belarusian (Tara?kievica)	беларуская (тарашкев?ца)?	be-tarask
+Cantonese	粵語	zh-yue
+Bengali	?????	bn
+Malayalam	??????	ml
+Haitian	Kreyòl ayisyen	ht
+Asturian	asturianu	ast
+Luxembourgish	L?tzebuergesch	lb
+Javanese	Basa Jawa	jv
+Marathi	?????	mr
+Southern Azerbaijani	??????	azb
+Afrikaans	Afrikaans	af
+Scots	Scots	sco
+Western Punjabi	??????	pnb
+Irish	Gaeilge	ga
+Icelandic	íslenska	is
+Chuvash	Ч?вашла	cv
+Bashkir	баш?ортса	ba
+West Frisian	Frysk	fy
+Sundanese	Basa Sunda	su
+Swahili	Kiswahili	sw
+Burmese	??????????	my
+Lombard	lumbaart	lmo
+Aragonese	aragonés	an
+Yoruba	Yorùbá	yo
+Nepali	??????	ne
+Gujarati	???????	gu
+Ido	Ido	io
+Eastern Punjabi	??????	pa
+Low Saxon	Plattdüütsch	nds
+Sicilian	sicilianu	scn
+Bishnupriya Manipuri	????????????? ???????	bpy
+Alemannic	Alemannisch	als
+Bavarian	Boarisch	bar
+Kurdish (Kurmanji)	Kurd?	ku
+Kannada	?????	kn
+Interlingua	interlingua	ia
+Quechua	Runa Simi	qu
+Kurdish (Sorani)	?????	ckb
+Mongolian	монгол	mn
+Egyptian Arabic	????	arz
+Samogitian	?emait??ka	bat-smg
+Walloon	walon	wa
+Scottish Gaelic	Gàidhlig	gd
+Neapolitan	Napulitano	nap
+Buginese	?? ????	bug
+Yiddish	??????	yi
+Amharic	????	am
+Sinhalese	?????	si
+Min Dong	Mìng-d??ng-ng??	cdo
+Banyumasan	Basa Banyumasan	map-bms
+Oriya	?????	or
+Faroese	f?royskt	fo
+Mazandarani	????????	mzn
+Upper Sorbian	hornjoserbsce	hsb
+Mingrelian	?????????	xmf
+Limburgish	Limburgs	li
+Maithili	??????	mai
+Sakha	саха тыла	sah
+Sanskrit	?????????	sa
+Venetian	vèneto	vec
+Ilocano	Ilokano	ilo
+Ossetian	Ирон	os
+Hill Mari	кырык мары	mrj
+Fiji Hindi	Fiji Hindi	hif
+Meadow Mari	олык марий	mhr
+Bhojpuri	???????	bh
+Tarantino	tarandíne	roa-tara
+Emilian-Romagnol	emiliàn e rumagnòl	eml
+Zazaki	Zazaki	diq
+Kapampangan	Kapampangan	pam
+Pashto	????	ps
+Sindhi	????	sd
+Hakka	客家語/Hak-k?-ng?	hak
+Northern Sotho	Sesotho sa Leboa	nso
+Northern Sami	davvisámegiella	se
+Acehnese	Acèh	ace
+Dutch Low Saxon	Nedersaksies	nds-nl
+Central Bicolano	Bikol Central	bcl
+Maori	Māori	mi
+Nahuatl	Nāhuatl	nah
+Classical Chinese	文言	zh-classical
+Gan	贛語	gan
+Silesian	?l?nski	szl
+West Flemish	West-Vlams	vls
+Rusyn	русиньскый	rue
+Wu	吴语	wuu
+Tibetan	???????	bo
+Gilaki	?????	glk
+Vepsian	veps?n kel’	vep
+Sardinian	sardu	sc
+V?ro	V?ro	fiu-vro
+Corsican	corsu	co
+Crimean Tatar	q?r?mtatarca	crh
+North Frisian	Nordfriisk	frr
+Khmer	?????????	km
+Northern Luri	???? ??????	lrc
+Turkmen	Türkmen?e	tk
+Komi	коми	kv
+Kashubian	kasz?bsczi	csb
+Somali	Soomaaliga	so
+Manx	Gaelg	gv
+Assamese	???????	as
+Ladino	Ladino	lad
+Zeelandic	Zeêuws	zea
+Aymara	Aymar aru	ay
+Udmurt	удмурт	udm
+Erzya	эрзянь	myv
+Lezgian	лезги	lez
+Cornish	kernowek	kw
+Saterland Frisian	Seeltersk	stq
+Interlingue	Interlingue	ie
+Norman	Nouormand	nrm
+Picard	Picard	pcd
+Navajo	Diné bizaad	nv
